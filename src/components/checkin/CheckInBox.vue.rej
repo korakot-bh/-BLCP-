@@ -1,0 +1,8 @@
+diff a/src/components/checkin/CheckInBox.vue b/src/components/checkin/CheckInBox.vue	(rejected hunks)
+@@ -1,5 +1,5 @@
+ <template lang="html">
+-  <v-card>
++  <v-card class="footerbg">
+     <v-layout row wrap justify-center align-center>
+       <v-card-title primary-title class="headline">
+         ลงชื่อผู้เข้าร่วมประชุม

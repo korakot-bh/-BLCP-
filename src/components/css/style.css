@@ -1,0 +1,114 @@
+@media print {
+  #card-front {
+    /* margin-left: 32mm; */
+    /* margin-bottom: 5mm; */
+    /* margin-top: 10mm; */
+    /* overflow: auto; */
+    /* height: 656px;
+    width: 1028px; */
+    display: block !important;
+    /* background-image: url('../../assets/card4.jpg'); */
+  }
+  #card-back {
+    /* margin: 10px; */
+    /* overflow: auto; */
+    /* margin-top: 10cm; */
+    margin-left: 32mm;
+    /* width: 21cm;
+    height: 29.7cm; */
+    /* width: 370px;
+    height: 180px; */
+    display: block !important;
+    /* background-image: url('../../assets/card3.jpg') !important; */
+  }
+  .print-ignore {
+    display: none;
+  }
+  .div-front {
+    margin: 0px;
+    padding: 0px;
+    width: 21cm;
+    height: 29.7cm;
+    /* display: none; */
+    /* background-image: url('../../assets/card3.jpg'); */
+  }
+  .div-back {
+    margin: 0px;
+    /* height: 21cm;
+    width: 29.7cm; */
+  }
+}
+.black-08opa {
+  background-color: rgba(0,0,0,0.6) !important;
+}
+.white-08opa {
+  background-color: rgba(255,255,255,0.8) !important;
+}
+.aaa {
+  background-image: url('../../assets/card4.jpg');
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+@font-face {
+  font-family: 'Athiti';
+  src: url('https://fonts.googleapis.com/css?family=Athiti');
+}
+.bg {
+  background-image: url('../../assets/confer14.jpg');
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Avenir', 'Athiti', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* background-color: black; */
+}
+.bgg {
+  background-image: url('../../assets/confer14new.jpg');
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* font-style: italic; ตัวเอียง */
+  font-family: 'Avenir', 'Athiti', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* background-color: black; */
+}
+.chartbg {
+  background-color: #FAFAFA;
+}
+.footerbg {
+  opacity: 1;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 1.5em;
+  padding: 1em;
+}
+.mobile-bg {
+  /* background-image: url('../../assets/confer.jpg'); */
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #ECEFF1 !important;
+}
+.mobile-card {
+  background-color: rgba(255,255,255,0) !important;
+}
+.regBtn {
+  height: 70px
+}
+.ggg {
+  /* background-color: #EEEEEE; */
+  height: 100%;
+  background-image: url('../../assets/wall.jpg');
+}
+.gggg {
+  background-color: #EEEEEE;
+}
