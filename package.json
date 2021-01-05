@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@xkeshi/vue-qrcode": "^1.0.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "chart.js": "^2.7.2",
     "lodash": "^4.17.10",
     "moment": "^2.22.2",
